@@ -2,7 +2,7 @@ package main
 import "fmt"
 
 func main ()  {
-	func println ("hello world")  {
+	func println ("HelloWorld")  {
 		
 	}
 	
